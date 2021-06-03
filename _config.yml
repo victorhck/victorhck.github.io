@@ -14,11 +14,13 @@ author: Victorhck
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://victorhckinthefreeworld.com"
+  Sobre mí: "aboutme"
+  Guías que he creado:
+    - Aprende Vim: "https://victorhckinthefreeworld.com/aprender-vim/"
+    - Guía de openSUSE: "https://victorhckinthefreeworld.com/guia-de-opensuse-para-recien-llegados/"
+    - Guía sobre tmux: "https://victorhck.github.io/guia-tmux/"
+  Mi blog personal: "https://victorhckinthefreeworld.com"
+  LiberaPay: "https://es.liberapay.com/victorhck/donate"
 
 # --- Logo --- #
 
@@ -84,7 +86,7 @@ url-pretty: "victorhckinthefreeworld.com"
 excerpt_length: 50
 
 # Whether or not to show an excerpt for every blog post in the feed page
-feed_show_excerpt: false
+feed_show_excerpt: true
 
 # Whether or not to show a list of tags below each post preview in the feed page
 feed_show_tags: false
