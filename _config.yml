@@ -39,12 +39,12 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "victorhck@opensuse.org"
-# facebook: deanattali
-  github: victorhck
-# twitter: daattali
-# patreon: DeanAttali
-  youtube: c/victorhck
+   email: "victorhck@opensuse.org"
+#  facebook: deanattali
+   github: victorhck
+#  twitter: daattali
+#  patreon: DeanAttali
+   youtube: c/victorhck
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
