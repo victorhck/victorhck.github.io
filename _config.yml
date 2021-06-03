@@ -15,11 +15,13 @@ author: Victorhck
 
 navbar-links:
   Sobre mí: "aboutme"
-  Guías que he creado:
+  Otros proyectos:
     - Aprende Vim: "https://victorhck.gitbook.io/aprende-vim/"
     - Guía de openSUSE: "https://victorhck.gitlab.io/guia_openSUSE/"
     - Guía sobre tmux: "https://victorhck.github.io/guia-tmux/"
-  Mi blog personal: "https://victorhckinthefreeworld.com"
+    - LibrePlanet: "https://victorhck.gitlab.io/planetalibre/"
+    - Unixporn: "https://victorhck.gitlab.io/unixporn/"
+  Mi blog: "https://victorhckinthefreeworld.com"
   Canal Telegram: "https://t.me/victorhck"
   LiberaPay: "https://es.liberapay.com/victorhck/donate"
 
