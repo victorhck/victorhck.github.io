@@ -16,8 +16,8 @@ author: Victorhck
 navbar-links:
   Sobre mí: "aboutme"
   Guías que he creado:
-    - Aprende Vim: "https://victorhckinthefreeworld.com/aprender-vim/"
-    - Guía de openSUSE: "https://victorhckinthefreeworld.com/guia-de-opensuse-para-recien-llegados/"
+    - Aprende Vim: "https://victorhck.gitbook.io/aprende-vim/"
+    - Guía de openSUSE: "https://victorhck.gitlab.io/guia_openSUSE/"
     - Guía sobre tmux: "https://victorhck.github.io/guia-tmux/"
   Mi blog personal: "https://victorhckinthefreeworld.com"
   LiberaPay: "https://es.liberapay.com/victorhck/donate"
