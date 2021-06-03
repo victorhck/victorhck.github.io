@@ -1,16 +1,10 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Sobre mí
+subtitle: un reseumen muy resumido
 ---
+Soy usuario de GNU/Linux desde 2010. Uso la distribución [openSUSE](https://www.opensuse.org/) con escritorio [Plasma de KDE](https://www.kde.org/workspaces/). Soy miembro de openSUSE, moderador de forosuse.org y socio de KDE España.
 
-My name is Inigo Montoya. I have the following qualities:
+Soy defensor del software libre, y trato de usarlo donde me es posible y difundir su utilización frente a opciones de software privativo. He participado y participo en diferentes proyectos, principalmente traduciendo o difundiendo.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+En [mi web](https://victorhckinthefreeworld.com/) escribo sobre openSUSE, GNU/Linux y software libre. También hay sitio para otros artículos _"offtopic"_ relacionados con otros temas que me interesan.
